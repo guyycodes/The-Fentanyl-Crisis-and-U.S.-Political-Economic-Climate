@@ -1,0 +1,6 @@
+# robots.txt for The Fentanyl Crisis and U.S. Political-Economic Climate
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://guyycodes.github.io/The-Fentanyl-Crisis-and-U.S.-Political-Economic-Climate/sitemap.xml
